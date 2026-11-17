@@ -92,3 +92,12 @@
 ## License
 
 The texts, code, images, photos, and videos in this repository are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [krahets/hello-algo](https://github.com/krahets/hello-algo), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/krahets/hello-algo
